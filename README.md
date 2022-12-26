@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VVKWhat
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,php
 - 💞️ I’m looking to collaborate on alone
 - 📫 How to reach me Discord: VVK_What#4511 Telegram: https://t.me/vvk_what
 
