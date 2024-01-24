@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VVKWhat
-- 👀 I’m interested in python, php
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning php<!-- - 👀 I’m interested in python, php -->
 - 😎 I'm work here: ~~https://vibe-cloud.xyz/~~ VibeCloud Team.
 - 📫 How to reach me: Discord: Foxanto#4511 , Telegram: https://t.me/vvk_what
 <!--- 💞️ I’m looking to collaborate on alone --->
