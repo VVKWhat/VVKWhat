@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @VVKWhat, you can call me a Fox
 - 🌱 I’m currently learning php<!-- - 👀 I’m interested in python, php -->
-- 😎 I'm work here: [SenTerium Team.](https://senterium.xyz/)
+- 😎 I'm work here: [SenTerium Team.](https://senterium.cloud/)
 - 😘 [Discord SenTerium Server (Click)](https://discord.gg/ZWRCry6bsA)
 - 📫 How to reach me: Discord: foxanto.vvk, Telegram: [t.me/vvk_what](https://t.me/vvk_what)
 <!--- 💞️ I’m looking to collaborate on alone --->
